@@ -1,0 +1,2 @@
+FLASK_APP=flitter.py
+FLASK_ENV=development
